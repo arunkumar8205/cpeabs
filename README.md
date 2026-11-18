@@ -1,8 +1,7 @@
 # cpeabs
 
 An abstraction layer for consumer preference equipment systems.
-[![Build Status](https://github.com/rdkcentral/cpeabs/workflows/CI/badge.svg)](https://github.com/rdkcentral/cpeabs/actions)
-[![GitHub release](https://img.shields.io/github/release/rdkcentral/cpeabs.svg)](CHANGELOG.md)
+[![GitHub release](https://img.shields.io/github/release/rdkcentral/cpeabs.svg)](https://github.com/rdkcentral/cpeabs/releases)
 ## Add more information here.
 
 # Building and Testing Instructions
