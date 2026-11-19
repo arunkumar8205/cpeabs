@@ -72,7 +72,7 @@ add_dependencies(libmsgpack msgpack)
 #-------------------------------------------------------------------------------
 ExternalProject_Add(cimplog
     PREFIX ${CMAKE_CURRENT_BINARY_DIR}/_prefix/cimplog
-    GIT_REPOSITORY https://github.com/Comcast/cimplog.git
+    GIT_REPOSITORY https://github.com/rdkcentral/cimplog.git
     GIT_TAG "1.0.2"
     CMAKE_ARGS += -DCMAKE_INSTALL_PREFIX=${INSTALL_DIR}
 )
@@ -94,7 +94,7 @@ add_dependencies(libcJSON cJSON)
 #-------------------------------------------------------------------------------
 ExternalProject_Add(wdmp-c
     PREFIX ${CMAKE_CURRENT_BINARY_DIR}/_prefix/wdmp-c
-    GIT_REPOSITORY https://github.com/Comcast/wdmp-c.git
+    GIT_REPOSITORY https://github.com/rdkcentral/wdmp-c.git
     GIT_TAG "796dddbcfa7686ec63536d950775e79b52ee5c3f"
     CMAKE_ARGS += -DCMAKE_INSTALL_PREFIX=${INSTALL_DIR}
                   -DBUILD_TESTING=OFF
