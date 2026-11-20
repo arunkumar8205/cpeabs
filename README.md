@@ -1,17 +1,17 @@
-<!--
-SPDX-FileCopyrightText: 2016-2021 Comcast Cable Communications Management, LLC
-SPDX-License-Identifier: Apache-2.0
--->
 # cpeabs
 
 An abstraction layer for consumer preference equipment systems.
+[![GitHub release](https://img.shields.io/github/release/rdkcentral/cpeabs.svg)](https://github.com/rdkcentral/cpeabs/releases)
 
-[![Build Status](https://github.com/xmidt-org/cpeabs/workflows/CI/badge.svg)](https://github.com/xmidt-org/cpeabs/actions)
-[![codecov.io](https://codecov.io/gh/xmidt-org/cpeabs/branch/main/graph/badge.svg?token=D267HYdfCD)](https://codecov.io/gh/xmidt-org/cpeabs)
-[![coverity](https://img.shields.io/coverity/scan/23416.svg)](https://scan.coverity.com/projects/xmidt-org-cpeabs)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=xmidt-org_cpeabs&metric=alert_status)](https://sonarcloud.io/dashboard?id=xmidt-org_cpeabs)
-[![Language Grade: C/C++](https://img.shields.io/lgtm/grade/cpp/g/xmidt-org/cpeabs.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/xmidt-org/cpeabs/context:cpp)
-[![GitHub release](https://img.shields.io/github/release/xmidt-org/cpeabs.svg)](CHANGELOG.md)
+## Origin
+
+This repository is based on the original
+[cpeabs](https://github.com/xmidt-org/cpeabs) source code
+maintained under the xmidt-org organization. The code was copied into the
+rdkcentral organization, where ongoing maintenance and development now take place.
+
+- Original project: https://github.com/xmidt-org/cpeabs
+- Current repository: https://github.com/rdkcentral/cpeabs
 
 ## Add more information here.
 
